@@ -1,4 +1,5 @@
 # Movie-Recommender-System
+content-based recommendation systems to recommend a movie to a user based upon the description of the movies, and a profile of the user’s interests.
 
 Results -
 
